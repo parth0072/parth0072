@@ -32,7 +32,7 @@ step_4  ──  ship         --confident   # 🚀  zero surprises
 ```json
 {
   "languages" : ["JavaScript", "TypeScript", "Python", "Java"],
-  "frontend"  : ["Flutter", "React", "iOS", "Android", "Ext.js", "Tailwind", "HTML5"],
+  "frontend"  : ["iOS", "Android", "Flutter", "React", "KMM"],
   "backend"   : ["Node.js", "Express", "REST"],
   "database"  : ["MongoDB", "PostgreSQL"],
   "devops"    : ["Git", "Docker", "Linux", "CI/CD"],
