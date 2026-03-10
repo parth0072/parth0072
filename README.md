@@ -1,11 +1,7 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=400&color=39d353&center=true&vCenter=true&multiline=false&width=580&height=40&lines=%24+whoami+%E2%96%AE;%3E+full+stack+developer+%E2%96%AE;%3E+ai-augmented+engineer+%E2%96%AE;%3E+ships+fast.+verifies+everything.+%E2%96%AE" alt="typing" />
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=11&duration=2500&pause=3000&color=1f6b35&center=true&vCenter=true&width=500&height=20&lines=%5B+booted+%E2%9C%94+%5D+%5B+stack+loaded+%E2%9C%94+%5D+%5B+ready+%E2%9C%94+%5D" alt="status" />
-
 </div>
-
 <br/>
 
 ```
@@ -36,7 +32,7 @@ step_4  ──  ship         --confident   # 🚀  zero surprises
 ```json
 {
   "languages" : ["JavaScript", "TypeScript", "Python", "Java"],
-  "frontend"  : ["React", "Next.js", "Tailwind", "HTML5"],
+  "frontend"  : ["Flutter", "React", "iOS", "Android", "Ext.js", "Tailwind", "HTML5"],
   "backend"   : ["Node.js", "Express", "REST"],
   "database"  : ["MongoDB", "PostgreSQL"],
   "devops"    : ["Git", "Docker", "Linux", "CI/CD"],
@@ -56,9 +52,6 @@ step_4  ──  ship         --confident   # 🚀  zero surprises
 ```
 
 <div align="center">
-
 <br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=11&duration=4000&pause=2000&color=1f6b35&center=true&vCenter=true&width=500&height=20&lines=build+with+ai+%7C+verify+by+hand+%7C+ship+with+confidence" alt="footer"/>
-
 </div>
