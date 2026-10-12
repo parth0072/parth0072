@@ -48,7 +48,7 @@ step_4  ──  ship         --confident   # 🚀  zero surprises
   github    →  github.com/parth0072
   linkedin  →  linkedin.com/in/parth0072
   twitter   →  twitter.com/parth0072
-  email     →  parth0072@gmail.com
+  email     →  parth0072@live.com
 ```
 
 <div align="center">
