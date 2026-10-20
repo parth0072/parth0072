@@ -39,17 +39,6 @@ step_4  ──  ship         --confident   # 🚀  zero surprises
   "ai_tools"  : ["Claude", "ChatGPT", "Copilot", "Cursor"]
 }
 ```
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2200&pause=600&color=39d353&center=true&vCenter=true&width=560&height=28&lines=%23+%7E%2Fdev++%E2%9D%AF++cat+links.txt" alt="cmd3"/>
-</div>
-
-```
-  github    →  github.com/parth0072
-  linkedin  →  linkedin.com/in/parth0072](https://in.linkedin.com/in/parth-kshatriya-052852122
-  email     →  parth0072@live.com
-```
-
 <div align="center">
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=11&duration=4000&pause=2000&color=1f6b35&center=true&vCenter=true&width=500&height=20&lines=build+with+ai+%7C+verify+by+hand+%7C+ship+with+confidence" alt="footer"/>
