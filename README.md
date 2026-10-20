@@ -46,8 +46,7 @@ step_4  ──  ship         --confident   # 🚀  zero surprises
 
 ```
   github    →  github.com/parth0072
-  linkedin  →  linkedin.com/in/parth0072
-  twitter   →  twitter.com/parth0072
+  linkedin  →  linkedin.com/in/parth0072](https://in.linkedin.com/in/parth-kshatriya-052852122
   email     →  parth0072@live.com
 ```
 
